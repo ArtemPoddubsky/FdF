@@ -15,7 +15,8 @@ your program.</h3>
   
   • The value corresponds to its altitude.
   
-![Map Example](https://user-images.githubusercontent.com/108487635/183723748-99754a13-46e4-4883-953e-6def4088ddf9.png) ![Parallel](https://user-images.githubusercontent.com/108487635/183723483-5e9ebc68-ae80-4c30-b0b7-70e19cb62553.png)
+![Map Example](https://user-images.githubusercontent.com/108487635/183723748-99754a13-46e4-4883-953e-6def4088ddf9.png) ![fdf Cut](https://user-images.githubusercontent.com/108487635/183851826-5d5f59bd-ef01-4706-aca7-b7f9e4df6edd.png)
+
 
 <h3>Bonus list:</h3>
 
@@ -45,6 +46,9 @@ your program.</h3>
     Zoom:
       • Mouse Scroll
       • - or + keys
+      
+    Change distance:
+      • < and > keys
     
     Exit
       • Escape
